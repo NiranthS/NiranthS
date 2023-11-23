@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Niranth Sai Sirusala, a graduate from the Indian Institute of Technology (BHU) Varanasi. My major interests are Reinforcement Learning and its applications in domains like Finance and Robotics 
+I am Niranth Sai Sirusala, a graduate from the Indian Institute of Technology (BHU) Varanasi.
 
 #### You can reach me at: 
 Email: niranths@gmail.com or my [LinkedIn](https://www.linkedin.com/in/niranth-sai/)
